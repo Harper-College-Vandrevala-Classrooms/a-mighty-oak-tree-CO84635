@@ -1,9 +1,9 @@
 package com.csc;
 
-public class Squirrel implements Name {
+public class StrawHat implements Name {
     private String name;
 
-    public Squirrel(String name) {
+    public StrawHat(String name) {
         this.name = name;
     }
 
